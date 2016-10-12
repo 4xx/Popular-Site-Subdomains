@@ -2,6 +2,7 @@
 about.twitter.com
 access.twitter.com
 ads.twitter.com
+analytics.twitter.com
 api-test.twitter.com
 api.twitter.com
 api2.twitter.com
@@ -13,6 +14,7 @@ business.twitter.com
 calendar.twitter.com
 cards-dev.twitter.com
 cards.twitter.com
+careers.twitter.com
 content.twitter.com
 dev-about.twitter.com
 dev-blog.twitter.com
@@ -26,6 +28,7 @@ download.twitter.com
 election.twitter.com
 eng.twitter.com
 events.twitter.com
+help.twitter.com
 horizon.twitter.com
 info.twitter.com
 jobs.twitter.com
@@ -33,12 +36,14 @@ m.twitter.com
 mail.twitter.com
 marketing.twitter.com
 mobile.twitter.com
+music.twitter.com
 mux.twitter.com
 mx.twitter.com
 mx1.twitter.com
 mx2.twitter.com
 mx3.twitter.com
 mx4.twitter.com
+pic.twitter.com
 pulse.twitter.com
 s.twitter.com
 search.twitter.com
